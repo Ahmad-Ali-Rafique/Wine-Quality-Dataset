@@ -27,3 +27,5 @@ Comprehensive analysis and modeling of the Wine Quality dataset, including explo
 - **Machine Learning:** Experienced in implementing and tuning machine learning models with Scikit-Learn.
 - **Model Evaluation:** Skilled in evaluating model performance using appropriate metrics.
 - **Data Preprocessing:** Expertise in preparing datasets for analysis and modeling.
+
+- ## [Ahmad Ali CV](https://drive.google.com/file/d/1bNLIx1j85e8ax21ZEC0DPt5C1at8vHjv/view?usp=sharing)
